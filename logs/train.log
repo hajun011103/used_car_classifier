@@ -1,0 +1,19 @@
+[2025-06-08 03:24:41] INFO: Loading pretrained weights from Hugging Face hub (timm/convnextv2_tiny.fcmae_ft_in22k_in1k_384)
+[2025-06-08 03:24:41] INFO: [timm/convnextv2_tiny.fcmae_ft_in22k_in1k_384] Safe alternative available for 'pytorch_model.bin' (as 'model.safetensors'). Loading weights using safetensors.
+[2025-06-08 03:24:41] INFO: Missing keys (head.fc.weight, head.fc.bias) discovered while loading pretrained weights. This is expected if model is being adapted.
+[2025-06-08 03:27:57] INFO: Epoch1/20] LR: 0.0001 Train Loss: 4.8802 | Val Loss: 1.6407, Acc: 63.969%, Log Loss: 2.0673
+[2025-06-08 03:31:06] INFO: Epoch2/20] LR: 0.0001 Train Loss: 2.3377 | Val Loss: 0.3232, Acc: 86.159%, Log Loss: 0.6984
+[2025-06-08 03:34:15] INFO: Epoch3/20] LR: 0.0001 Train Loss: 1.7574 | Val Loss: 0.1789, Acc: 90.183%, Log Loss: 0.4636
+[2025-06-08 03:37:31] INFO: Epoch4/20] LR: 0.0001 Train Loss: 1.4543 | Val Loss: 0.1726, Acc: 91.333%, Log Loss: 0.4666
+[2025-06-08 03:40:47] INFO: Epoch5/20] LR: 0.0001 Train Loss: 1.3168 | Val Loss: 0.1426, Acc: 92.755%, Log Loss: 0.4403
+[2025-06-08 03:44:07] INFO: Epoch6/20] LR: 0.0001 Train Loss: 1.2076 | Val Loss: 0.1397, Acc: 93.163%, Log Loss: 0.4277
+[2025-06-08 03:47:26] INFO: Epoch7/20] LR: 0.0001 Train Loss: 1.1145 | Val Loss: 0.1212, Acc: 93.435%, Log Loss: 0.3952
+[2025-06-08 03:50:51] INFO: Epoch8/20] LR: 0.0001 Train Loss: 1.0610 | Val Loss: 0.1262, Acc: 93.465%, Log Loss: 0.3946
+[2025-06-08 03:54:09] INFO: Epoch9/20] LR: 0.0001 Train Loss: 0.9836 | Val Loss: 0.1078, Acc: 94.116%, Log Loss: 0.3598
+[2025-06-08 03:57:23] INFO: Epoch10/20] LR: 0.0001 Train Loss: 0.9669 | Val Loss: 0.0924, Acc: 94.313%, Log Loss: 0.3323
+[2025-06-08 04:00:39] INFO: Epoch11/20] LR: 0.0001 Train Loss: 0.9198 | Val Loss: 0.1014, Acc: 94.282%, Log Loss: 0.3568
+[2025-06-08 04:03:57] INFO: Epoch12/20] LR: 0.0001 Train Loss: 0.8928 | Val Loss: 0.0850, Acc: 94.812%, Log Loss: 0.3168
+[2025-06-08 04:07:14] INFO: Epoch13/20] LR: 0.0001 Train Loss: 0.8642 | Val Loss: 0.0933, Acc: 95.008%, Log Loss: 0.3375
+[2025-06-08 04:10:47] INFO: Epoch14/20] LR: 5e-05 Train Loss: 0.8500 | Val Loss: 0.1052, Acc: 95.039%, Log Loss: 0.3723
+[2025-06-08 04:14:14] INFO: Epoch15/20] LR: 5e-05 Train Loss: 0.7432 | Val Loss: 0.0785, Acc: 95.477%, Log Loss: 0.3170
+[2025-06-08 04:14:14] INFO: Early stopping triggered.
